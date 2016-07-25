@@ -1,9 +1,0 @@
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\bin\Debug\NewInCSharp6.exe.config
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\bin\Debug\NewInCSharp6.exe
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\bin\Debug\NewInCSharp6.pdb
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\obj\Debug\NewInCSharp6.csprojResolveAssemblyReference.cache
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\obj\Debug\NewInCSharp6.exe
-c:\users\andriy\documents\visual studio 2015\Projects\NewInCSharp6\NewInCSharp6\obj\Debug\NewInCSharp6.pdb
-C:\Users\Andriy\Documents\GitHub\NewInCSharp6\NewInCSharp6\bin\Debug\NewInCSharp6.exe.config
-C:\Users\Andriy\Documents\GitHub\NewInCSharp6\NewInCSharp6\obj\Debug\NewInCSharp6.exe
-C:\Users\Andriy\Documents\GitHub\NewInCSharp6\NewInCSharp6\obj\Debug\NewInCSharp6.pdb
